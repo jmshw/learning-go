@@ -22,4 +22,5 @@ func main() {
 	//	cStr := (*C.char)(str)
 	//	nLen := strlen(str)
 	//	fmt.Printf("nLen:%d\n", nLen)
+	//This is some text for test only.
 }
