@@ -2,3 +2,5 @@
 Store some example code of book &lt;&lt;Learning Go>>
 
 This is an new description at local PC.
+
+Testing change default text editor.
